@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+p {
+  margin: 3px 0px;
+}
+
+#page {
+  max-width: 750px;
+}
+
+#codearea {
+  width: 300px;
+  margin: 10px 10px;
+  float: left;
+}
+
+#canvasarea {
+  width: 400px;
+  margin: 10px 10px;
+  float: left;
+}
+
+#kcode {
+  width: 300px;
+  height: 300px;
+}
+
+#kcanvas {
+  border: 1px solid #666666;
+}
+
